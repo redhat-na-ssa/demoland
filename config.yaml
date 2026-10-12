@@ -472,17 +472,29 @@ sops:
     lastmodified: "2026-10-07T14:51:31Z"
     mac: ENC[AES256_GCM,data:A4eB+kpwRlbXxE5LuDmy15g5+ItzE93EWn7H79M31QCZ3SIw4lN8i2v7yVq1zsKPiLx9b809/VW5l7KU1lCmffPLeQBjtvUWKBTTsfM/gLGJLrS+FVjeD6RBbmNZ4LUfKiw2/8M767LiN9d5084oRZyLPvY0FIAZpgD4CReNDqw=,iv:zO6A3xflElQDemVaGwiYO//0UZSaG5k/BxpT/2kz0QI=,tag:rf/96sbOpMDcZV7uNSiBLg==,type:str]
     pgp:
-        - created_at: "2025-08-21T19:30:47Z"
+        - created_at: "2026-10-12T20:32:33Z"
           enc: |-
             -----BEGIN PGP MESSAGE-----
 
-            hF4DYyNh9fWacSISAQdAh1/D/6CIXWPHdZTNp0ZI2lXpcWcYvSQCewb9uwaDJnQw
-            ipjRcoFwW+yp4GHfMJcW0j0HE9AMaA2I9rMO0I8uq49axieaTe3ILpfpFrV4ThP7
-            1GYBCQIQrc+2di+Am+TGhRxvmQfECHp7X7+ZUwk/TSjKRU8UOdXICAOkhiVVfJuW
-            jafsv5O9xj4G1pGPkljda5ej3Ny7Gn25b8WuazE7IMDq7K9u/cheoCWDf9Wln7J7
-            QIRW4e2GQ+w=
-            =Jv7T
+            hF4DYyNh9fWacSISAQdASkic4iR2QYijd9eZH938ebHwxzaTaisN7TM4nlausj0w
+            GzcvlBZzutC4bDgSKO20dmiZrL/czTrMTOT5UDHBWFcYoClaX29iLQNK4LLI0SLc
+            1GYBCQIQp0zuEY/ceM7Swb8aqv+IcsTotmXXjjxuPlZed9LIPDDMKUNbgTiRCZE/
+            KN+rT+01jD2iMZi4bTViu8Z5jP7xevEnIPpfbLD5qRvLgl6tEXuoHdX3PzZooeOP
+            1p9sySmwHzo=
+            =4GmC
             -----END PGP MESSAGE-----
           fp: E7645036F453F0DA44BED49F49949A5572BF2AE4
+        - created_at: "2026-10-12T20:32:33Z"
+          enc: |-
+            -----BEGIN PGP MESSAGE-----
+
+            hF4D/P07nyrDbn8SAQdA1AUPRtf6A4n1epXqDp7ajvSp3tigoPbYnbJ4CIFD5mEw
+            7Y1WHZG6Hex8zHzlRcamJdapn8KgOqioKOZ4Z62R+iM0FzRZneXZWG+02kB0/4F4
+            1GYBCQIQ0XijpePxuw7qpLZaZIvOneULp80pljIswkzw3UpObel/yL0LQY9UtQaV
+            WAYqdSemAnClSiUlD2GEn2/SbAxA7Q3zx3pwqF9iOvY8Pzem6jBzlZmvUdlv7xnW
+            daGS+YOT/0o=
+            =e1FP
+            -----END PGP MESSAGE-----
+          fp: 2E84541A3921879C4F829F08679FE138B60C5297
     encrypted_comment_regex: ^[ ]{0,}encrypted$
     version: 3.11.0

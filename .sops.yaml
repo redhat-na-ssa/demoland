@@ -1,4 +1,6 @@
 creation_rules:
   - path_regex: 'config.yaml$'
-    pgp: E7645036F453F0DA44BED49F49949A5572BF2AE4
+    pgp: >-
+      E7645036F453F0DA44BED49F49949A5572BF2AE4,
+      2E84541A3921879C4F829F08679FE138B60C5297
     encrypted_comment_regex: '^[ ]{0,}encrypted$'
